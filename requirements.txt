@@ -1,0 +1,6 @@
+pip install requests
+pip install bs4
+pip install urllib.parse
+pip install turtle
+pip install ebooklib
+pip install time
